@@ -1,0 +1,13 @@
+#space-jam-logo {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 150px;
+}
+
+.main-page-footer {
+  position: fixed;
+  bottom: 20px;
+  text-align: center;
+  width: 100%;
+}
