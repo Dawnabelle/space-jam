@@ -2,12 +2,99 @@
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  margin-top: 150px;
+  margin-top: 170px;
+}
+
+#jam-central {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 100px;
+}
+
+#planet-b-ball {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 80px;
+  margin-left: 80px;
+}
+
+#lunar-tunes {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 100px;
+  margin-left: 160px;
+}
+
+#jump-station {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 210px;
+  margin-left: 175px;
+}
+
+#studio-store {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 300px;
+  margin-left: 160px;
+}
+
+#p-behind {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 380px;
+  margin-left: 90px;
+}
+
+#site-map {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 400px;
+}
+
+#stellar-souvenirs {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 350px;
+  margin-left: -100px;
+}
+
+#junior-jam {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 290px;
+  margin-left: -180px;
+}
+
+#lineup {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 215px;
+  margin-left: -180px;
+}
+
+#pressbox {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 130px;
+  margin-left: -110px;
 }
 
 .main-page-footer {
   position: fixed;
-  bottom: 20px;
   text-align: center;
   width: 100%;
+  margin-top: 600px;
+  font-size: 12px;
 }
